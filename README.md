@@ -95,13 +95,13 @@ Students will be assigned the following final letter grades, based on calculatio
 * Students are required to follow all University COVID-19 Protocols outlined [here](https://www.cmu.edu/coronavirus/students/tartans-responsibility.html).
 
 ## Course Schedule
-•	Class 1 - 1/19 - Zoom only - Course Overview & Introduction to GitHub & Shiny
-•	Class 2 - 1/26 - Zoom only - Reactive Programming & User Interfaces
-•	Class 3 - 2/2 - Reactive Programming Pt. 2 & Dashboards
-•	Homework 1 Due - 2/4
-•	Class 4 - 2/9 - Interactive Visualizations & Advanced Reactivity
-•	Class 5 - 2/16 - Leaflet & LeafletProxy
-•	Homework 2 Due - 2/18
-•	Class 6 - 2/23 - Bookmarking & Final Project Work
-•	Class 7 - 3/2 - Connecting to Databases & API's
-•	Final Project Due - 3/4
+*	Class 1 - 1/19 - Zoom only - Course Overview & Introduction to GitHub & Shiny
+*	Class 2 - 1/26 - Zoom only - Reactive Programming & User Interfaces
+*	Class 3 - 2/2 - Reactive Programming Pt. 2 & Dashboards
+*	Homework 1 Due - 2/4
+*	Class 4 - 2/9 - Interactive Visualizations & Advanced Reactivity
+*	Class 5 - 2/16 - Leaflet & LeafletProxy
+*	Homework 2 Due - 2/18
+*	Class 6 - 2/23 - Bookmarking & Final Project Work
+*	Class 7 - 3/2 - Connecting to Databases & API's
+*	Final Project Due - 3/4
