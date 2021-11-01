@@ -1,8 +1,8 @@
 # Syllabus
 ## R Shiny for Operations Management
-* Day/Time: Thu / 6:30-9:20 pm
-* Location: HBH 1202
-* Semester: Mini 3, Year: 2021
+* Day/Time: Wed / 6:20-9:10 pm
+* Location: TBD
+* Semester: Mini 3, Year: 2022
 * Units: 6, Section(s): 1
 
 #### Instructor information
@@ -95,8 +95,8 @@ Students will be assigned the following final letter grades, based on calculatio
 * Students are required to follow all University COVID-19 Protocols outlined [here](https://www.cmu.edu/coronavirus/students/tartans-responsibility.html).
 
 ## Course Schedule
-*	Class 1 - 1/19 - Zoom only - Course Overview & Introduction to GitHub & Shiny
-*	Class 2 - 1/26 - Zoom only - Reactive Programming & User Interfaces
+*	Class 1 - 1/19 - Course Overview & Introduction to GitHub & Shiny
+*	Class 2 - 1/26 - Reactive Programming & User Interfaces
 *	Class 3 - 2/2 - Reactive Programming Pt. 2 & Dashboards
 *	Homework 1 Due - 2/4
 *	Class 4 - 2/9 - Interactive Visualizations & Advanced Reactivity
