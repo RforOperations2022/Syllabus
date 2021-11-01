@@ -33,7 +33,7 @@ Students will walk away from this course with at least 3 functioning examples of
 ## Learning Resources 
 *	Students will require a laptop capable of running R and R Studio for this course, and bring it to every class in order to follow along with lecture.
 *	Free user accounts for GitHub and shinyapps.io.
-*	We will not be using Canvas/Blackboard in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2021
+*	We will not be using Canvas/Blackboard in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2022
 *	There is no required text for this course, but supplemental websites and materials will be provided in addition to course lectures.
 * Students can use data from any source for their homework assignments and first project, but these websites are good places to get started:
     *	http://www.wprdc.org/
