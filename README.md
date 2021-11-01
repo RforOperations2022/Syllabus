@@ -1,8 +1,8 @@
 # Syllabus
 ## R Shiny for Operations Management
-* Day/Time: Thu / 6:30-9:20 pm
-* Location: HBH 1202
-* Semester: Mini 3, Year: 2021
+* Day/Time: Wed / 6:20-9:10 pm
+* Location: TBD
+* Semester: Mini 3, Year: 2022
 * Units: 6, Section(s): 1
 
 #### Instructor information
