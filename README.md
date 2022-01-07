@@ -103,6 +103,6 @@ Students will be assigned the following final letter grades, based on calculatio
 *	Class 4 - 2/9 - Interactive Visualizations & Advanced Reactivity
 *	Class 5 - 2/16 - Leaflet & LeafletProxy
 *	Homework 2 Due - 2/18
-*	Class 6 - 3/2 - Connecting to Databases & API's
-*	Class 7 - 2/23 - Bookmarking & Final Project Work
+*	Class 6 - 2/23 - Connecting to Databases & API's
+*	Class 7 - 3/2 - Bookmarking & Final Project Work
 *	Final Project Due - 3/4
